@@ -2,8 +2,5 @@
 
 Problem statement by Atlassian
 
-## Mohammad Nafis Raza
-## Mohammad Atif
-## Shivankar Mehta
-## Sambhrant Dora
-## Sayan Biswas
+Soham Dixit
+22BCS10135
